@@ -1,6 +1,6 @@
 {
   "name": "polyuse",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A modular library that provides building blocks for creating your own framework",
   "license": "MIT",
   "homepage": "https://polyuse.dev",
